@@ -1,0 +1,21 @@
+# ninja log v5
+4	83	7019673486298785	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	10ddbed6ec938ecc
+4	83	7019673486298785	C:/Users/lsymi/CLionProjects/class/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	10ddbed6ec938ecc
+84	5909	7019673544542094	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	12b375f8d82c68b2
+84	5909	7019673544542094	C:/Users/lsymi/CLionProjects/class/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	12b375f8d82c68b2
+5909	5984	7019673545298470	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	f2040984dc77ceae
+5909	5984	7019673545298470	C:/Users/lsymi/CLionProjects/class/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	f2040984dc77ceae
+5984	6053	7019673545994548	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	faf9ff487ae4c311
+5984	6053	7019673545994548	C:/Users/lsymi/CLionProjects/class/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	faf9ff487ae4c311
+6053	6125	7019673546699983	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	c8cd815b52531e62
+6053	6125	7019673546699983	C:/Users/lsymi/CLionProjects/class/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	c8cd815b52531e62
+6125	6197	7019673547450843	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	5af23ab5fb308035
+6125	6197	7019673547450843	C:/Users/lsymi/CLionProjects/class/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	5af23ab5fb308035
+6197	6262	7019673548102723	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	7578ee12835950c2
+6197	6262	7019673548102723	C:/Users/lsymi/CLionProjects/class/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	7578ee12835950c2
+6262	6332	7019673548776680	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	417620ad705d7494
+6262	6332	7019673548776680	C:/Users/lsymi/CLionProjects/class/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	417620ad705d7494
+6332	6431	7019673549792212	CMakeFiles/sfml-populate-complete	72e8c7099bc1859d
+6332	6431	7019673549792212	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	72e8c7099bc1859d
+6332	6431	7019673549792212	C:/Users/lsymi/CLionProjects/class/out/build/x64-Debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	72e8c7099bc1859d
+6332	6431	7019673549792212	C:/Users/lsymi/CLionProjects/class/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	72e8c7099bc1859d
