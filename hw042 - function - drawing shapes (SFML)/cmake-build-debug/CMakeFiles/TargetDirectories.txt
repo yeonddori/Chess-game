@@ -1,3 +1,0 @@
-C:/Users/lsymi/CLionProjects/class/cmake-build-debug/CMakeFiles/class.dir
-C:/Users/lsymi/CLionProjects/class/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lsymi/CLionProjects/class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
